@@ -1,0 +1,101 @@
+Incident ID,Incident Type,Severity,Description,Status,Time Reported,Time Resolved
+INC0001,Network Issue,Medium,DNS failure,Closed,2024-03-20 12:53:18.289722,2024-03-22 02:53:18.289722
+INC0002,Server Failure,Low,Web server unresponsive,Closed,2024-11-25 15:53:18.289749,2024-11-27 13:53:18.289749
+INC0003,Server Failure,Medium,Database server crash,Closed,2024-05-06 00:53:18.289760,2024-05-08 18:53:18.289760
+INC0004,Network Issue,Low,DNS failure,Closed,2024-03-27 14:53:18.289769,2024-03-27 20:53:18.289769
+INC0005,Server Failure,Medium,Application server failure,Resolved,2024-04-15 17:53:18.289778,2024-04-17 18:53:18.289778
+INC0006,Network Issue,Low,Network latency observed,Open,2024-06-30 12:53:18.289787,2024-07-02 01:53:18.289787
+INC0007,Server Failure,Low,Web server unresponsive,Resolved,2024-10-17 14:53:18.289797,2024-10-19 00:53:18.289797
+INC0008,Server Failure,High,Web server unresponsive,Open,2024-01-25 16:53:18.289810,2024-01-26 00:53:18.289810
+INC0009,Network Issue,Critical,DNS failure,Closed,2024-04-25 17:53:18.289818,2024-04-28 13:53:18.289818
+INC0010,Server Failure,High,Web server unresponsive,Resolved,2024-06-02 04:53:18.289827,2024-06-02 13:53:18.289827
+INC0011,Network Issue,High,Network outage in region A,Closed,2024-02-23 12:53:18.289836,2024-02-25 09:53:18.289836
+INC0012,Network Issue,Medium,Connectivity issue with router,Open,2024-07-21 05:53:18.289845,2024-07-21 18:53:18.289845
+INC0013,Network Issue,Critical,Network outage in region A,Resolved,2024-04-13 00:53:18.289853,2024-04-14 14:53:18.289853
+INC0014,Network Issue,Low,Network outage in region A,Closed,2024-02-16 12:53:18.289862,2024-02-17 04:53:18.289862
+INC0015,Server Failure,Medium,Database server crash,Resolved,2024-01-21 08:53:18.289870,2024-01-22 12:53:18.289870
+INC0016,Server Failure,High,Application server failure,Resolved,2024-12-13 07:53:18.289879,2024-12-15 02:53:18.289879
+INC0017,Server Failure,Critical,Database server crash,Closed,2024-04-05 08:53:18.289887,2024-04-07 09:53:18.289887
+INC0018,Network Issue,Low,Connectivity issue with router,Open,2024-09-01 21:53:18.289896,2024-09-04 05:53:18.289896
+INC0019,Server Failure,Low,Web server unresponsive,Closed,2024-08-20 02:53:18.289905,2024-08-22 13:53:18.289905
+INC0020,Server Failure,Low,Hardware malfunction in server rack,Resolved,2024-11-13 01:53:18.289913,2024-11-14 07:53:18.289913
+INC0021,Network Issue,Critical,Bandwidth congestion detected,Open,2024-06-18 21:53:18.289921,2024-06-19 08:53:18.289921
+INC0022,Server Failure,Critical,Power failure in data center,Resolved,2023-12-28 03:53:18.289930,2023-12-29 04:53:18.289930
+INC0023,Network Issue,Medium,Network outage in region A,Closed,2024-06-18 19:53:18.289938,2024-06-20 20:53:18.289938
+INC0024,Network Issue,Low,DNS failure,Closed,2024-04-20 14:53:18.289947,2024-04-23 10:53:18.289947
+INC0025,Network Issue,High,Network latency observed,Open,2024-03-25 05:53:18.289955,2024-03-26 15:53:18.289955
+INC0026,Server Failure,Low,Hardware malfunction in server rack,Resolved,2024-09-09 07:53:18.289963,2024-09-10 00:53:18.289963
+INC0027,Network Issue,Critical,Network outage in region A,Open,2024-07-24 10:53:18.289972,2024-07-24 16:53:18.289972
+INC0028,Server Failure,Medium,Power failure in data center,Resolved,2024-01-23 15:53:18.289980,2024-01-23 20:53:18.289980
+INC0029,Server Failure,High,Database server crash,Resolved,2024-07-03 10:53:18.289988,2024-07-03 16:53:18.289988
+INC0030,Network Issue,Critical,Network latency observed,Closed,2024-05-23 07:53:18.289997,2024-05-25 06:53:18.289997
+INC0031,Network Issue,High,Network outage in region A,Resolved,2024-06-08 15:53:18.290005,2024-06-10 07:53:18.290005
+INC0032,Server Failure,Low,Database server crash,Resolved,2024-05-03 17:53:18.290015,2024-05-04 12:53:18.290015
+INC0033,Server Failure,High,Hardware malfunction in server rack,Closed,2023-12-25 03:53:18.290024,2023-12-27 08:53:18.290024
+INC0034,Network Issue,Critical,Network latency observed,Resolved,2024-06-17 20:53:18.290032,2024-06-20 03:53:18.290032
+INC0035,Server Failure,High,Hardware malfunction in server rack,Resolved,2024-05-30 05:53:18.290041,2024-05-30 16:53:18.290041
+INC0036,Server Failure,Critical,Database server crash,Closed,2024-11-19 03:53:18.290049,2024-11-21 03:53:18.290049
+INC0037,Server Failure,Critical,Hardware malfunction in server rack,Open,2024-04-20 23:53:18.290058,2024-04-21 09:53:18.290058
+INC0038,Network Issue,High,DNS failure,Open,2024-05-28 20:53:18.290066,2024-05-30 20:53:18.290066
+INC0039,Network Issue,Critical,DNS failure,Closed,2024-07-18 10:53:18.290075,2024-07-19 00:53:18.290075
+INC0040,Server Failure,Low,Hardware malfunction in server rack,Open,2024-08-22 18:53:18.290083,2024-08-23 14:53:18.290083
+INC0041,Network Issue,Critical,Bandwidth congestion detected,Open,2023-12-30 04:53:18.290091,2023-12-31 01:53:18.290091
+INC0042,Server Failure,Critical,Database server crash,Resolved,2024-03-26 08:53:18.290100,2024-03-27 06:53:18.290100
+INC0043,Server Failure,High,Web server unresponsive,Open,2024-02-28 23:53:18.290108,2024-03-01 07:53:18.290108
+INC0044,Server Failure,Critical,Application server failure,Closed,2024-11-14 10:53:18.290135,2024-11-16 11:53:18.290135
+INC0045,Network Issue,Low,Network outage in region A,Closed,2024-06-06 15:53:18.290144,2024-06-08 15:53:18.290144
+INC0046,Server Failure,High,Hardware malfunction in server rack,Resolved,2024-10-20 22:53:18.290152,2024-10-21 03:53:18.290152
+INC0047,Network Issue,Medium,Connectivity issue with router,Resolved,2024-11-12 14:53:18.290161,2024-11-15 12:53:18.290161
+INC0048,Server Failure,Low,Power failure in data center,Closed,2024-10-19 01:53:18.290170,2024-10-21 05:53:18.290170
+INC0049,Server Failure,Medium,Web server unresponsive,Resolved,2024-10-21 23:53:18.290178,2024-10-23 19:53:18.290178
+INC0050,Server Failure,Critical,Hardware malfunction in server rack,Resolved,2024-09-01 04:53:18.290186,2024-09-02 12:53:18.290186
+INC0051,Network Issue,Critical,Bandwidth congestion detected,Resolved,2024-10-24 17:53:18.290195,2024-10-27 04:53:18.290195
+INC0052,Network Issue,High,Network latency observed,Open,2024-12-07 06:53:18.290203,2024-12-09 17:53:18.290203
+INC0053,Network Issue,Low,DNS failure,Closed,2024-01-18 09:53:18.290211,2024-01-21 05:53:18.290211
+INC0054,Server Failure,Low,Database server crash,Closed,2024-10-22 03:53:18.290220,2024-10-22 13:53:18.290220
+INC0055,Server Failure,Critical,Hardware malfunction in server rack,Closed,2024-02-23 02:53:18.290228,2024-02-23 06:53:18.290228
+INC0056,Server Failure,High,Database server crash,Closed,2024-05-19 20:53:18.290237,2024-05-21 20:53:18.290237
+INC0057,Server Failure,High,Web server unresponsive,Closed,2024-09-17 00:53:18.290247,2024-09-18 11:53:18.290247
+INC0058,Server Failure,Medium,Database server crash,Closed,2024-03-19 09:53:18.290256,2024-03-20 18:53:18.290256
+INC0059,Server Failure,Medium,Power failure in data center,Closed,2024-01-28 07:53:18.290264,2024-01-28 21:53:18.290264
+INC0060,Server Failure,Low,Application server failure,Open,2024-04-25 16:53:18.290273,2024-04-27 17:53:18.290273
+INC0061,Server Failure,Critical,Application server failure,Resolved,2024-01-23 19:53:18.290282,2024-01-25 00:53:18.290282
+INC0062,Network Issue,High,Network latency observed,Open,2024-04-01 06:53:18.290291,2024-04-03 04:53:18.290291
+INC0063,Network Issue,High,Connectivity issue with router,Resolved,2024-10-28 01:53:18.290299,2024-10-29 15:53:18.290299
+INC0064,Server Failure,Medium,Power failure in data center,Resolved,2024-12-09 13:53:18.290308,2024-12-11 20:53:18.290308
+INC0065,Server Failure,Critical,Application server failure,Open,2024-03-28 02:53:18.290317,2024-03-28 13:53:18.290317
+INC0066,Server Failure,High,Hardware malfunction in server rack,Open,2024-06-03 19:53:18.290326,2024-06-06 09:53:18.290326
+INC0067,Network Issue,Medium,Bandwidth congestion detected,Resolved,2024-01-10 08:53:18.290335,2024-01-12 16:53:18.290335
+INC0068,Network Issue,Critical,Network latency observed,Closed,2024-10-06 17:53:18.290345,2024-10-08 22:53:18.290345
+INC0069,Server Failure,Low,Hardware malfunction in server rack,Closed,2024-01-01 22:53:18.290353,2024-01-02 21:53:18.290353
+INC0070,Server Failure,High,Power failure in data center,Open,2024-06-05 14:53:18.290362,2024-06-06 10:53:18.290362
+INC0071,Network Issue,High,Connectivity issue with router,Closed,2024-05-05 12:53:18.290370,2024-05-05 23:53:18.290370
+INC0072,Server Failure,Low,Power failure in data center,Open,2024-05-02 11:53:18.290379,2024-05-02 23:53:18.290379
+INC0073,Network Issue,Low,Bandwidth congestion detected,Closed,2024-10-03 05:53:18.290388,2024-10-05 21:53:18.290388
+INC0074,Network Issue,Critical,Bandwidth congestion detected,Open,2024-08-10 08:53:18.290396,2024-08-11 05:53:18.290396
+INC0075,Network Issue,High,Bandwidth congestion detected,Closed,2024-09-09 14:53:18.290405,2024-09-11 00:53:18.290405
+INC0076,Server Failure,Critical,Power failure in data center,Resolved,2024-06-11 21:53:18.290413,2024-06-14 06:53:18.290413
+INC0077,Server Failure,High,Hardware malfunction in server rack,Closed,2024-01-23 10:53:18.290421,2024-01-24 07:53:18.290421
+INC0078,Server Failure,High,Database server crash,Resolved,2024-06-21 13:53:18.290431,2024-06-23 21:53:18.290431
+INC0079,Server Failure,Critical,Power failure in data center,Resolved,2024-07-24 13:53:18.290439,2024-07-26 00:53:18.290439
+INC0080,Network Issue,High,Network outage in region A,Closed,2024-07-05 16:53:18.290448,2024-07-07 03:53:18.290448
+INC0081,Network Issue,Medium,DNS failure,Closed,2024-07-29 03:53:18.290456,2024-07-31 15:53:18.290456
+INC0082,Server Failure,Medium,Database server crash,Open,2024-03-24 16:53:18.290465,2024-03-25 14:53:18.290465
+INC0083,Server Failure,Low,Power failure in data center,Resolved,2024-04-17 00:53:18.290474,2024-04-17 19:53:18.290474
+INC0084,Server Failure,Low,Power failure in data center,Resolved,2024-06-24 03:53:18.290482,2024-06-26 21:53:18.290482
+INC0085,Server Failure,High,Web server unresponsive,Resolved,2024-04-23 15:53:18.290491,2024-04-25 11:53:18.290491
+INC0086,Server Failure,Medium,Hardware malfunction in server rack,Closed,2024-09-26 22:53:18.290499,2024-09-28 16:53:18.290499
+INC0087,Server Failure,Critical,Hardware malfunction in server rack,Closed,2024-09-25 22:53:18.290507,2024-09-28 03:53:18.290507
+INC0088,Network Issue,Low,Connectivity issue with router,Resolved,2024-10-31 08:53:18.290515,2024-11-02 04:53:18.290515
+INC0089,Network Issue,Low,Network outage in region A,Open,2024-04-09 00:53:18.290523,2024-04-10 01:53:18.290523
+INC0090,Server Failure,High,Application server failure,Open,2024-09-06 08:53:18.290532,2024-09-07 00:53:18.290532
+INC0091,Network Issue,Medium,Network latency observed,Closed,2024-09-05 15:53:18.290540,2024-09-07 03:53:18.290540
+INC0092,Server Failure,High,Database server crash,Closed,2023-12-21 08:53:18.290555,2023-12-23 20:53:18.290555
+INC0093,Server Failure,Low,Hardware malfunction in server rack,Closed,2024-06-08 06:53:18.290564,2024-06-09 01:53:18.290564
+INC0094,Server Failure,High,Application server failure,Closed,2024-03-04 12:53:18.290572,2024-03-06 16:53:18.290572
+INC0095,Server Failure,Medium,Database server crash,Resolved,2024-08-30 12:53:18.290581,2024-09-01 04:53:18.290581
+INC0096,Server Failure,Critical,Power failure in data center,Closed,2024-05-16 09:53:18.290589,2024-05-18 06:53:18.290589
+INC0097,Network Issue,Low,DNS failure,Open,2024-10-31 04:53:18.290598,2024-11-02 07:53:18.290598
+INC0098,Server Failure,Medium,Application server failure,Open,2024-05-23 18:53:18.290606,2024-05-24 10:53:18.290606
+INC0099,Network Issue,Medium,Connectivity issue with router,Open,2024-01-07 01:53:18.290614,2024-01-08 08:53:18.290614
+INC0100,Server Failure,Low,Hardware malfunction in server rack,Open,2024-01-17 00:53:18.290623,2024-01-19 20:53:18.290623
